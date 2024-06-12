@@ -112,7 +112,9 @@
 <br>
 <br>
 
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 <br>
 <div align='left'>
 
@@ -141,3 +143,6 @@
 <br>
 <br>
 <br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
