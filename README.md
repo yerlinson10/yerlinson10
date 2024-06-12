@@ -77,7 +77,9 @@
 
 - **Extras**:
 
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![mysql](https://img.shields.io/badge/mysql%20-087993.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+    ![mariadb](https://img.shields.io/badge/mariadb%20-C27A5F.svg?style=for-the-badge&logo=mariadb&logoColor=white)  
 
 
 </p>
