@@ -44,6 +44,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Vuejs](https://camo.githubusercontent.com/f60dd0bb1184e95c8dafd368e1dd4c3a77aa21f928088b1f21d265f1c03621cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675652e6a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844)
+   ![TypeScript](https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
    ![alpine](https://img.shields.io/badge/alpine.js%20-77C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
    ![jQuery](https://img.shields.io/badge/jQuery%20-78CFF5.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 
