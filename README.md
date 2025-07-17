@@ -48,6 +48,7 @@
    ![TypeScript](https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
    ![alpine](https://img.shields.io/badge/alpine.js%20-77C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
    ![jQuery](https://img.shields.io/badge/jQuery%20-78CFF5.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+   ![Tailwind](https://img.shields.io/badge/Tailwind%20-0e97fb.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
 
@@ -65,6 +66,7 @@
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Firebase hosting](https://img.shields.io/badge/Firebase%20hosting%20-F2BE1B.svg?style=for-the-badge&logo=Firebase&logoColor=white)
     ![Hostinger](https://img.shields.io/badge/hostinger%20-673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+    ![Laravel Cloud](https://img.shields.io/badge/laravel%20cloud-474747.svg?style=for-the-badge&logo=Laravel&logoColor=white)
     
 <br>
 
